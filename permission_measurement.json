@@ -1,0 +1,9 @@
+{
+  "permission": "measurement_without_meaning",
+  "measurement": {
+    "allowed": true,
+    "interpreted": false,
+    "stored": false
+  },
+  "principle": "What is measured does not become significant by being measured."
+}
